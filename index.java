@@ -1,5 +1,3 @@
-//to create an user defined thread
-
 class Userthread extends Thread{
     public void run(){
     int x=0;
